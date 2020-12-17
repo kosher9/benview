@@ -1,38 +1,32 @@
-.App {
-  text-align: center;
+.A {
+  color: #888e96;
+  font-size: 14px;
+  font-family: Montserrat;
+}
+  
+.B {
+  color: #1c355e;
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: bolder;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.C {
+  color: #696f77;
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+.D {
+  color: #1c355e;
+  font-size: 14px;
+  font-family: Montserrat;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.E {
+  color: #f6a800
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.F {
+  color: #428bca
 }
